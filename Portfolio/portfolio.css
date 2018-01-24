@@ -1,0 +1,145 @@
+#container{
+	background: radial-gradient(circle, #6f5964, #1f0f13);
+	height: 1154px;
+	width: 1100px;
+	padding-top: 10px;
+}
+
+#header{
+	background-color: #f7f7f7;
+	display: inline-flex;
+	width: 1100px;
+	margin-top: -10px;
+}
+
+h1{
+	font: comic sans;
+	margin-left: 20px;
+}
+
+#header h2{
+	margin-left: 500px;
+}
+
+#about1 img{
+	margin: 30px 0px 30px 20px;
+	width: 43%;
+	height: 43%;
+  border: 6px solid #c0c0c0;
+}
+
+#about1{
+ margin-bottom: 20px;
+}
+
+#about2 {
+	background-color: #f7f7f7;
+	width: 550px;
+	height: 325px;
+	margin-left: 530px;
+	margin-top: -380px;
+}
+
+#about2 p{
+	padding-left: 10px;
+}
+
+#about2 h2{
+	color: white;
+	background: linear-gradient(#b3b3b7, #888693, #b3b3b7);
+	padding: 8px;
+}
+
+#about3 {
+	width: 1200px;
+}
+
+#about3 p{
+	margin-top: -20px;
+	padding: 0px 10px 0px 10px;
+}
+
+#about3 img{
+	width: 300px;
+	height: 150px;
+	margin-top: -20px;
+	padding-bottom: 15px;
+}
+
+#bottom{
+margin-left: 12px;
+}
+
+#bottom img{
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+}
+
+#column1{
+	background-color: #f7f7f7;
+	width: 340px;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+}
+
+#about3 h2{
+	margin-top: 0px;
+	padding: 9px;
+	color: white;
+	background: linear-gradient(#b3b3b7, #888693, #b3b3b7);
+}
+
+#about3 h3{
+	margin-left: -12px;
+	padding: 7px;
+	color: white;
+	background: linear-gradient(#b3b3b7, #888693, #b3b3b7);
+}
+
+#column2{
+	background-color: #f7f7f7;
+	width: 340px;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+}
+
+#column3{
+	background-color: #f7f7f7;
+	width: 340px;
+	height: 600px;
+	float: left;
+	margin-left: 20px
+}
+
+button{
+	margin: 20px 100px 40px 120px;
+	background-color: #407d61;
+	border-radius: 7px;
+	border-width: 1px;
+	border-color: black;
+	padding: 4px;
+	color: white;
+	font-weight: bold;
+	box-shadow: 3px 3px 5px grey;
+}
+
+#footer{
+	background-color: #f7f7f7;
+	width: 1100px;
+	height: 80px;
+	margin-top: 652px;
+}
+
+#footer img{
+	width: 19px;
+	height: 19px;
+	margin-bottom: -5px;
+}
+
+#footer p{
+	text-align: center;
+	margin-bottom: -30px;
+}
