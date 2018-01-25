@@ -1,0 +1,176 @@
+#header {
+  background-color: #245076;
+  width: 970px;
+  height: 100px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+
+#headerright {
+  margin-top: -110px;
+  margin-left: 770px;
+  color: white;
+}
+
+#search {
+  background-color: #444444;
+  width: 290px;
+  height: 60px;
+  margin-left: 670px;
+  margin-top: -17px;
+  border-radius: 15px;
+  box-shadow: 3px 3px 3px black;
+}
+
+#search input {
+  height: 30px;
+  text-align: center;
+  border-style: inset;
+  border-width: 3px;
+  margin-top: 12px;
+  margin-left: 44px;
+}
+
+button {
+  background-color: #245076;
+  color: white;
+  border-radius: 5px;
+  width: 45px;
+  height: 33px;
+  box-shadow: 2px 2px 2px black;
+}
+
+#header img {
+  width: 378px;
+  height: 95px;
+  margin-left: 35px;
+  margin-top: 10px;
+}
+
+#body {
+  background-color: #245076;
+  width: 970px;
+  height: 400px;
+  margin-top: -20px;
+}
+
+#bar {
+  background-color: #457dad;
+  width: 840px;
+  height: 50px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px black;
+  margin-left: 100px;
+}
+
+#body bar {
+  margin-top: 100px;
+}
+
+#bar p {
+  color: white;
+  margin-left: 65px;
+  padding-top: 11px;
+  font: 20px arial, sans-serif;
+}
+
+.list li {
+  text-decoration: underline;
+  color: white;
+  margin: 10px;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+.list {
+  width: 200px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+.history {
+  width: 600px;
+  text-align: center;
+  margin-left: 320px;
+  margin-top: -219px;
+  color: white;
+  font-size: 15px;
+}
+
+.poem {
+  margin-left: 400px;
+  width: 430px;
+  color: yellow;
+}
+
+.poem li {
+  margin: 13px;
+  font: 20px arial, sans-serif;
+  font-style: italic;
+}
+
+#body2 {
+  background-color: #ffffff;
+  border-top: 4px solid #183753;
+  width: 970px;
+  height: 300px;
+
+}
+
+#body2 h3 {
+  margin-right: 60px;
+}
+
+.bodyright {
+  margin-left: 520px;
+  text-align: center;
+  margin-top: 17px;
+  width: 400px;
+  height: 200px;
+  border-top: 4px solid #73a7d5;
+  font: 16px arial, sans-serif;
+}
+
+.bodyleft {
+  margin-left: 86px;
+  text-align: center;
+  margin-top: -205px;
+  width: 400px;
+  height: 200px;
+  border-top: 4px solid #73a7d5;
+  font: 16px arial, sans-serif;
+}
+
+#body2 p {
+  width: 320px;
+  margin-left: 10px;
+}
+
+#body2 ul {
+  width: 280px;
+  margin-top: -10px;
+}
+
+li span {
+    color: #699bc7;
+}
+
+#body2 li {
+  margin: 5px;
+}
+
+#footer {
+  background: linear-gradient(#255178, #3373ab);
+  width: 970px;
+  height: 100px;
+  font: 20px arial, sans-serif;
+  color: #73a5d1;
+  text-align: center;
+}
+
+.bottom p {
+ margin-top: 13px;
+}
